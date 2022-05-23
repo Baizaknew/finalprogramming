@@ -1,4 +1,5 @@
-# Final 
+# Final
+# We decided to make simple simulators, games (such as tic-tac-toe, calendar, calculator, snake. At first we wanted to make a telegram bot, but since many classmates prepared it, we canceled it.
 # 1) krestiki noliki
 # 2) calculator
 # 3) calendar
