@@ -1,7 +1,9 @@
-# Final programming
+# Final 
 # 1) krestiki noliki
 # 2) calculator
 # 3) calendar
+
+# 
 
 
 ![krestikinoliki](https://user-images.githubusercontent.com/102854080/169684642-b7a11ff1-1804-498c-b478-c87fe88ddba1.png)
