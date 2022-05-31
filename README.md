@@ -13,6 +13,8 @@
 ![resized_alatooicon](https://user-images.githubusercontent.com/102854080/171136853-923c3f10-64da-4494-b444-652ba15d4531.jpg)
 ![resized_resized_alatooicon](https://user-images.githubusercontent.com/102854080/171136889-3c29aeb6-4b11-4a9a-a42d-dcd0784b35a0.jpg)
 
+# The code is linted (syntax checked by PEP8) and have no mistakes.
+
 
 # For extra points for final project I decided to make simple simulators, games (such as tic-tac-toe, calendar, calculator, snake. I hope it's enough. 
  1) krestiki noliki
