@@ -1,11 +1,11 @@
 # Final project
 # This code is used to reduce the size of large photos.
 
-Let's imagine that we have 4 photos that we need to reduce their sizes.
+# Let's imagine that we have 4 photos that we need to reduce their sizes.
 ![screenbatch1](https://user-images.githubusercontent.com/102854080/171133856-c9a79243-fbf6-4002-9cf7-a258e12a4f27.png)
-in process...
+# in process...
 ![screen3](https://user-images.githubusercontent.com/102854080/171135448-4b3d7855-2aa0-4abd-8549-c34eda064c9a.png)
-And finally here you are!
+# And finally here you are!
 ![screenbatch2](https://user-images.githubusercontent.com/102854080/171135578-1cd87743-3e97-45bf-86f3-117097a4ca57.png)
 
 
