@@ -2,16 +2,19 @@
 # This code is used to reduce the size of large photos.
 
 Let's imagine that we have 4 photos that we need to reduce their sizes.
-
-
+![screenbatch1](https://user-images.githubusercontent.com/102854080/171133856-c9a79243-fbf6-4002-9cf7-a258e12a4f27.png)
+in process...
+![screen3](https://user-images.githubusercontent.com/102854080/171135448-4b3d7855-2aa0-4abd-8549-c34eda064c9a.png)
+And finally here you are!
+![screenbatch2](https://user-images.githubusercontent.com/102854080/171135578-1cd87743-3e97-45bf-86f3-117097a4ca57.png)
 
 
 # For extra points for final project I decided to make simple simulators, games (such as tic-tac-toe, calendar, calculator, snake. I hope it's enough. 
-# 1) krestiki noliki
-# 2) calculator
-# 3) calendar
-# 4) snake
-# 5) ping-pong
+ 1) krestiki noliki
+ 2) calculator
+ 3) calendar
+ 4) snake
+ 5) ping-pong
 
 
 ![krestikinoliki](https://user-images.githubusercontent.com/102854080/169684642-b7a11ff1-1804-498c-b478-c87fe88ddba1.png)
