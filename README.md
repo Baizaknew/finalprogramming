@@ -1,4 +1,11 @@
 # Final project
+# This code is used to reduce the size of large photos.
+
+Let's imagine that we have 4 photos that we need to reduce their sizes.
+
+
+
+
 # For extra points for final project I decided to make simple simulators, games (such as tic-tac-toe, calendar, calculator, snake. I hope it's enough. 
 # 1) krestiki noliki
 # 2) calculator
