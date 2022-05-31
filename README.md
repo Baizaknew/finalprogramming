@@ -8,6 +8,11 @@
 # And finally here you are!
 ![screenbatch2](https://user-images.githubusercontent.com/102854080/171135578-1cd87743-3e97-45bf-86f3-117097a4ca57.png)
 
+# alatoo icon before and after
+![alatooicon](https://user-images.githubusercontent.com/102854080/171136812-7da37e35-8fd4-44e8-9eff-2cfe66e8e29e.jpg)
+![resized_alatooicon](https://user-images.githubusercontent.com/102854080/171136853-923c3f10-64da-4494-b444-652ba15d4531.jpg)
+![resized_resized_alatooicon](https://user-images.githubusercontent.com/102854080/171136889-3c29aeb6-4b11-4a9a-a42d-dcd0784b35a0.jpg)
+
 
 # For extra points for final project I decided to make simple simulators, games (such as tic-tac-toe, calendar, calculator, snake. I hope it's enough. 
  1) krestiki noliki
